@@ -3,20 +3,20 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+This project is an **interactive Python application** that explores **US bikeshare data for Chicago, New York City, and Washington**. It filters data based on **user-selected criteria—city, month, and day—and computes key usage statistics** such as popular travel times, stations, trip durations, and user demographics. The program provides a streamlined analysis loop that allows users to repeatedly run insights on different datasets.
 
 ## Information about how to use your project
 
 This could include:
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Have a latest python CLI Installed (preferably above 3.11.2) or Visual Studio code.
+- MS Office Suite.
+- Do not replace data every time you save it into a **.csv** file.
+- If any issue rerun the program by closing the current terminal and opening a new one or by restarting the IDE
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+Queries regarding contributions will be in **Contribution.md** file.
 
 ## Credits
 
@@ -24,4 +24,4 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ## Date created
 
-Include the date you created this project and README file.
+Project and README.md were created on 23-2-2026.
